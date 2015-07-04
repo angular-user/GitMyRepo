@@ -58,3 +58,4 @@ C:\Code\GitMyRepo\BusinessAPI\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Code\GitMyRepo\BusinessAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Code\GitMyRepo\BusinessAPI\obj\Debug\BusinessAPI.dll
 C:\Code\GitMyRepo\BusinessAPI\obj\Debug\BusinessAPI.pdb
+C:\Code\GitMyRepo\BusinessAPI\obj\Debug\BusinessAPI.csprojResolveAssemblyReference.cache
